@@ -27,6 +27,8 @@ For Windows:
 
 Make sure you have an active internet connection when running the application for the first time. 
 
+If any further issues persist when downloading, please make sure your computer has the latest version of Python installed.
+
 The application may experience occasional delays if the server is overloaded or temporarily unavailable. If this happens, please wait for a while and try again later.
 
 Detailed instructions for usage of the application are within the application itself.
