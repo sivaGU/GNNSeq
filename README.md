@@ -10,7 +10,7 @@ For macOS (preferred, as this app was built in a Unix enviornment):
 
 1. Download and extract the contents of the GNNSeqGUI_.zip file.
 
-2. Either 1) Double click on the GNNSeqGUI_Mac exe file, or 2) Open the terminal, navigate to the extracted folder, and run the following command: "./GNNSeqGUI_Mac"
+2. Either 1) Double click on the GNNSeqGUI_Mac exe file, or 2) Open the terminal, navigate to the extracted folder, and run the following command: "./GNNSeqGUI_Mac". Initial bootup may take up to 3-4 minutes.
 
 3. If the app still doesn't run, open System Settings > Privacy & Security, and enable "Allow applications from: App Store and Known Developers" and click "Open anyway". This app has been verified as "safe to download" through a virus-checking software.
 
@@ -18,7 +18,7 @@ For Windows:
 
 1. Download and extract the contents of the GNNSeqGUI_Windows.zip file.
    
-2. Either 1) Double-click the GNNSeqGUI.exe file to launch the application, or 2) Open command prompt (CMD), navigate to the folder where GNNSeqGUI_Windows.exe is extracted, and run the following command: "GNNSeqGUI_Windows.exe"
+2. Either 1) Double-click the GNNSeqGUI.exe file to launch the application, or 2) Open command prompt (CMD), navigate to the folder where GNNSeqGUI_Windows.exe is extracted, and run the following command: "GNNSeqGUI_Windows.exe". Initial bootup may take up to 3-4 minutes.
    
 3. If the app does not open or if it is blocked by your system as potentially dangerous, please click "More information" and "Run anyway" in the pop-up. If it is still blocked, please go to your computer's system settings and allow "3rd party downloads from the internet". This app has been verified as "safe to download" through a virus-checking software.
 
